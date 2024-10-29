@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My assignment w7</string>
+    <string name="select_province_prompt">Chọn tỉnh/thành phố</string>
+    <string name="select_district_prompt">Chọn quận/huyện</string>
+    <string name="select_ward_prompt">Chọn xã/phường</string>
+</resources>
